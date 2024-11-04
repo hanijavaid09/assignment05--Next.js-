@@ -24,7 +24,7 @@ const Hero = () => {
       alt='img'
       width={462}
       height={647}
-      className=' p-16 float-right  '/>
+      className=' p-20 mr-9 float-right  '/>
     </div>
   )
 }
